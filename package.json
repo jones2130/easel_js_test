@@ -1,0 +1,11 @@
+{
+    "name" : "cfdayui.jjoneslab.easeljstests.xml-oop",
+    "version" : "1.0.0",
+    "description" : "Intro to EaselJS",
+    "main" : "main.js",
+    "author" : "James J. Jones",
+    "license" : "Day Research",
+    "dependencies" : {
+        "jquery" : "^2.1.1"
+    }
+}

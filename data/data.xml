@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+    <item>
+        <title>icon1</title>
+        <color>#773333</color>
+        <source>img/1.png</source>
+        <link>index.html</link>
+    </item>
+    <item>
+        <title>icon2</title>
+        <color>#773377</color>
+        <source>img/2.png</source>
+        <link>index.html</link>
+    </item>
+    <item>
+        <title>icon3</title>
+        <color>#777733</color>
+        <source>img/3.png</source>
+        <link>index.html</link>
+    </item>
+    <item>
+        <title>icon4</title>
+        <color>#333377</color>
+        <source>img/4.png</source>
+        <link>index.html</link>
+    </item>
+    <item>
+        <title>icon5</title>
+        <color>#337733</color>
+        <source>img/5.png</source>
+        <link>index.html</link>
+    </item>
+</menu>
